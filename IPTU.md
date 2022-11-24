@@ -11,7 +11,7 @@ Body
 {
   "property": {
     "taxpayer_code": "001.000.0000-00", // obrigatório
-  "city": "SÃO PAULO - CAPITAL" // único valor aceito
+    "city": "SÃO PAULO - CAPITAL" // único valor aceito
   }
 }
 ```
