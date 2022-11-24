@@ -22,7 +22,7 @@ Response
           "Razao": "RAZAO SOCIAL",
           "Cidade": "CIDADE",
           "Estado": "ESTADO",
-          "IDCidade": 0000,
+          "IDCidade": "0000",
           "IDEstado": 0,
           "NrCartorio": "00"
         },
