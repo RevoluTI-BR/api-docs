@@ -26,7 +26,7 @@ Response
           "IDEstado": 0,
           "NrCartorio": "00"
         },
-                // ...[DEMAIS CARTORIOS NA CIDADE]
+        // ...[DEMAIS CARTORIOS NA CIDADE]
       ]
     }
     }
@@ -44,12 +44,12 @@ Host: https://api.revoluti.com.br
 Body
 ```json
 {
-    "description": "DESCR",
+  "description": "DESCR",
   "type": "Property",
-    "property": [{
-        "registry_office": "{CODIGO_CARTORIO}",
-        "registration_code": "1"
-    }]
+  "property": [{
+    "registry_office": "{CODIGO_CARTORIO}",
+    "registration_code": "1"
+  }]
 }
 ```
 
@@ -102,7 +102,6 @@ GET /audits/{AUDIT_ID} HTTP/1.1
 Content-Type: application/json
 Authorization: Bearer {TOKEN}
 Host: https://api.revoluti.com.br
-
 ```
 
 Responses
