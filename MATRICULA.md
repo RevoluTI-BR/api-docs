@@ -26,7 +26,7 @@ Response
           "IDEstado": 0,
           "NrCartorio": "00"
         },
-        // ...[DEMAIS CARTORIOS NA CIDADE]
+        "...": "OUTROS CARTORIOS NA CIDADE"
       ]
     }
     }
